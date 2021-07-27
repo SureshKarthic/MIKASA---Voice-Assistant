@@ -1,0 +1,3 @@
+MIKASA is a virtual assistant which can do certains operations over voice command
+
+			Developed by Harish

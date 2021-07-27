@@ -1,0 +1,35 @@
+              
+
+What's your name
+
+Play %word%
+
+Flip a coin 
+
+Open This PC/My Computer
+
+Open Local Disk %letter%
+
+Screenshot
+
+What's the time
+
+create a new text document
+
+Make a note
+
+What is %word%
+
+Search for %word%
+
+%word% on YouTube
+
+Where am I? 
+
+sleep
+
+Restart the computer
+
+Shutdown/Turn Off the computer
+
+Stop
